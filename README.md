@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Startup Analysis
+# Indian Startup Analysis
 
 A data-driven project that analyses and visualises the Indian startup ecosystem using **Python** and **Streamlit**.  
 It provides interactive charts and insights into the growth, funding, and sector trends of Indian startups.
